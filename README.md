@@ -11,7 +11,6 @@ This assignment has **three progressive parts** that build upon each other. Each
 - `requirements.txt` - Python dependencies (NumPy)
 - `TIPS.md` - Troubleshooting guide for common issues
 - `.github/test/test_assignment.py` - Automated tests for grading
-- `expected_outputs/` - Reference examples of expected output files
 
 ## Assignment
 
